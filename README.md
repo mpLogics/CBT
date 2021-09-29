@@ -1,2 +1,2 @@
-# CBT
+# Cognitive Behavioral Therapy
 Using Deep Learning to understand mental health concepts derived from Cognitive Behavioral Therapy
